@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeTracer</string>
+    <string name="setting_title">Hello world!</string>
+	<string name="send_msg">SEND_MSG</string>
+</resources>
